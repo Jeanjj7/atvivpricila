@@ -1,0 +1,6 @@
+git init 
+git add .
+git remote add origin https://github.com/Jeanjj7/nome.git
+git commit -m "receba"
+git push
+git push --set-upstream origin master
